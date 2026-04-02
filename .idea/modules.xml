@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LANChatSystem.iml" filepath="$PROJECT_DIR$/.idea/LANChatSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LanChatClient/LanChatClient.iml" filepath="$PROJECT_DIR$/LanChatClient/LanChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LanChatServer/LanChatServer.iml" filepath="$PROJECT_DIR$/LanChatServer/LanChatServer.iml" />
+    </modules>
+  </component>
+</project>
