@@ -41,6 +41,11 @@
 │              └────────────────────┘                    │
 └─────────────────────────────────────────────────────────┘
 ```
+### 页面图
+<img width="1457" height="1027" alt="屏幕截图 2026-04-03 081509" src="https://github.com/user-attachments/assets/ff62c921-0624-4887-b1fd-43533f1f3690" />
+<img width="1454" height="1027" alt="屏幕截图 2026-04-03 081621" src="https://github.com/user-attachments/assets/c668378f-4c44-4b28-abfd-66952519358f" />
+<img width="1466" height="1041" alt="屏幕截图 2026-04-03 081539" src="https://github.com/user-attachments/assets/99036b3b-2a35-4e8e-b811-3626dfa58a2b" />
+
 
 ### 核心模块说明
 
